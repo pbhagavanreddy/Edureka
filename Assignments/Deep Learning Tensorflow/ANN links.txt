@@ -1,8 +1,7 @@
 https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.01547&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
 
 
-https://colab.research.google.com/drive/1cuwfdl_UMXXpmS0-xxuheJQ4CobPObtV?usp=sharing                             
-
+https://colab.research.google.com/drive/1cuwfdl_UMXXpmS0-xxuheJQ4CobPObtV?usp=sharing                  
 https://colab.research.google.com/drive/1AOqK-KS1H-X7GPVLA6j_iB0aoUpTdjRZ?usp=sharing
 
 CIFAR - https://colab.research.google.com/drive/1lzLkWvAqQMtQ2ANnkhBJKl7NfSG1Jh39?usp=sharing
@@ -13,7 +12,10 @@ RNN - https://colab.research.google.com/drive/1bbWbzRG0okg4v2y_IfgzOrNLkkdfq41P?
 Text Representations - https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
 
 
+RNN (Word Predict) https://colab.research.google.com/drive/1SS8vkpQYHQpHkg9g1iQ3ziMCiAZVnIuk?usp=sharing
 
+
+arul_francis@hotmail.com
 
 
 
