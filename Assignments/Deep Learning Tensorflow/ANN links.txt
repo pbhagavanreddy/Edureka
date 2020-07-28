@@ -12,21 +12,19 @@ RNN - https://colab.research.google.com/drive/1bbWbzRG0okg4v2y_IfgzOrNLkkdfq41P?
 Text Representations - https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
 
 arul_francis@hotmail.com
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 RNN (Word Predict) https://colab.research.google.com/drive/1SS8vkpQYHQpHkg9g1iQ3ziMCiAZVnIuk?usp=sharing
 
-AutoEncoders Keras - https://colab.research.google.com/drive/11LZHnqVVflfQz_x9DWV11N5viDbCxDiR?usp=sharing
+AutoEncoders Keras (fashin mnist)  - https://colab.research.google.com/drive/11LZHnqVVflfQz_x9DWV11N5viDbCxDiR?usp=sharing
 
 https://eng.uber.com/michelangelo-machine-learning-platform/
 
-Keras IMDB -  https://colab.research.google.com/drive/1xcjNqZnLiBeoaYfu_1jGdKKvZsa4iQZ5?usp=sharing
+Keras (IMDB) -  https://colab.research.google.com/drive/1xcjNqZnLiBeoaYfu_1jGdKKvZsa4iQZ5?usp=sharing
 
-TFLearn - https://colab.research.google.com/drive/1wGoplyhI5VOkcq4sbNaEw1ZricmA2kyw?usp=sharing
-
-               https://colab.research.google.com/drive/1jL_moViAissgV0FiraI1b7AxYIfhInYe?usp=sharing
+TFLearn - 
 
  https://github.com/Kaggle/kaggle-api#:~:text=API%20credentials,file%20containing%20your%20API%20credentials.
-
 
 GAN – generative adversarial networks
